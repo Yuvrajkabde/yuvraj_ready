@@ -1,0 +1,120 @@
+.body1{
+    text-align: center;
+    background-color: #fff;
+    
+
+}
+.start1{
+    background-color: #EAF6F6;
+
+}
+
+h1{
+    font-family: 'Sacramento', cursive;
+    margin-top: 10%;
+    font-size: 75px;
+}
+h3{
+    color: #1199e1;
+}
+.cloud{
+    
+    position:absolute;
+    right: 15%;
+    top: 5%;
+}
+.Bottomcloud{
+    position: absolute;
+    left: 15%;
+    top: 40%;
+}
+.data{
+    background-color: #fff;
+}
+.frofile{
+    width: 120px;
+    height: 120px;
+    margin-top: 30px;
+}
+h2{
+    position: relative;
+    top: 20px;
+    color: #1199e1;
+}
+hr{
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    margin: 50px auto;
+    width: 4%;
+}
+.WebDesign{
+    width: 25%;
+    float: left;
+    margin-right: 30px;  
+}
+.chillie{
+    width: 25%;
+    float: right;
+    margin-left: 30px;  
+}
+.skill{
+    width: 50%;
+    margin: auto;
+    text-align: left;
+    background-color: #fff;
+    margin-top: 50px;
+}
+.intro{
+    width: 30%;
+    text-align: center;
+    margin: auto;
+    
+}
+p{
+    line-height: 2;
+}
+.hare{
+    margin-top: 50px;
+}
+.comment{
+    margin: 50px 0;
+}
+.love{
+    width: 30%;
+    text-align: center;
+    margin:20px auto 20px 35%;
+}
+
+
+
+.btn {
+    font-size:20px;
+    font-family:Arial;
+    width:124px;
+    height:41px;
+    border-width:1px;
+    color:#fff;
+    border-color:#599bb3;
+    border-top-left-radius:8px;
+    border-top-right-radius:8px;
+    border-bottom-left-radius:8px;
+    border-bottom-right-radius:8px;
+    box-shadow: 1px 14px 14px -7px #276873;
+    text-shadow: 0px 1px 0px #3d768a;
+    background:linear-gradient(#599bb3, #408c99);
+  }
+  
+  .btn:hover {
+    background: linear-gradient(#408c99, #599bb3);
+  }
+  .Bottom-container{
+    background-color: #EAF6F6;
+  }
+  .end1{
+    color: #599bb3;
+  }
+  .footer-link{
+    margin:auto 20px ;
+  }
+                
+                
